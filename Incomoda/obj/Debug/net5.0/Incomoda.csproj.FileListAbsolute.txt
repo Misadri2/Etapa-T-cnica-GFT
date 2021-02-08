@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.exe
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.deps.json
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.runtimeconfig.json
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.runtimeconfig.dev.json
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.dll
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\ref\Incomoda.dll
+C:\Users\user\Projetos\GFTStarter\Incomoda\bin\Debug\net5.0\Incomoda.pdb
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.csprojAssemblyReference.cache
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.AssemblyInfo.cs
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.dll
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\ref\Incomoda.dll
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.pdb
+C:\Users\user\Projetos\GFTStarter\Incomoda\obj\Debug\net5.0\Incomoda.genruntimeconfig.cache

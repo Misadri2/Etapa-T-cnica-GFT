@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.csprojAssemblyReference.cache
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.AssemblyInfo.cs
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.exe
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.deps.json
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.runtimeconfig.json
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.runtimeconfig.dev.json
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.dll
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\ref\Funcionario.dll
+C:\Users\user\Projetos\GFTStarter\Funcionario\bin\Debug\net5.0\Funcionario.pdb
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.dll
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\ref\Funcionario.dll
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.pdb
+C:\Users\user\Projetos\GFTStarter\Funcionario\obj\Debug\net5.0\Funcionario.genruntimeconfig.cache

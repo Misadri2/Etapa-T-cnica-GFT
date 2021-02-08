@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.exe
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.deps.json
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.runtimeconfig.json
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.runtimeconfig.dev.json
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.dll
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\ref\Area.dll
+C:\Users\user\Projetos\GFTStarter\Area\bin\Debug\net5.0\Area.pdb
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.csprojAssemblyReference.cache
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.AssemblyInfo.cs
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.dll
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\ref\Area.dll
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.pdb
+C:\Users\user\Projetos\GFTStarter\Area\obj\Debug\net5.0\Area.genruntimeconfig.cache

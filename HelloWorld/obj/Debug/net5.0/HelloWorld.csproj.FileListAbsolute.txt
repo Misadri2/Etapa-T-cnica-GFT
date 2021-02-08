@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\user\Projetos\GFTStarter\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\user\Projetos\GFTStarter\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
