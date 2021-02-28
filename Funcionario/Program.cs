@@ -15,7 +15,7 @@ namespace Funcionario
            p1.Rg = Console.ReadLine();
 
 
-            double salarioinicial = 10000;
+            double salarioinicial = 15000;
 
             double salario2017 = (salarioinicial + (salarioinicial * 1.50 / 100));
 
@@ -26,7 +26,7 @@ namespace Funcionario
             double salario2020 = (salario2019 + (salario2019 * 3.00 / 100));
 
 
-        Console.WriteLine("O nome do funcionário é: " + p1.Nome + " / O rg é: " + p1.Rg + " / O salario em 2020 é: " + salario2020.ToString("F2") + " reais");
+        Console.WriteLine("O nome do funcionário é: " + p1.Nome + " / O rg é: " + p1.Rg + " / O salario em 2020 é: " + "R$ " + salario2020.ToString("F2"));
             
 
 
