@@ -3,8 +3,8 @@ namespace Funcionario
     public class Pessoa
     {
        
-    public string Nome;
-    public string Rg ;
+    public string Nome { get; set; }
+    public string Rg { get; set; }
     
      
         }

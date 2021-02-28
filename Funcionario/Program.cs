@@ -15,7 +15,7 @@ namespace Funcionario
            p1.Rg = Console.ReadLine();
 
 
-            double salarioinicial = 1000;
+            double salarioinicial = 10000;
 
             double salario2017 = (salarioinicial + (salarioinicial * 1.50 / 100));
 
