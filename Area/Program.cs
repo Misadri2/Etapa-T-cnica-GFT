@@ -6,28 +6,26 @@ namespace Area
     {
         static void Main(string[] args)
         {
-            double pi = 3.14;
+            CalcQuadrado q = new CalcQuadrado();
+            CalcCirculo c = new CalcCirculo();
+            CalcRetangulo r = new CalcRetangulo();
+
 
             Console.Write("Informe o lado do quadrado: ");
-            double lado = double.Parse(Console.ReadLine());
-            double areaquadrado = lado * lado;
-
-            Console.Write("Informe a largura do Retângulo : ");
-            double largura = double.Parse(Console.ReadLine());
-            Console.Write("Informe a altura do Retângulo : ");
-            double altura = double.Parse(Console.ReadLine());
-            double arearetangulo = largura * altura;
+            q.Lado = double.Parse(Console.ReadLine());
 
             Console.Write("Informe o raio do círculo: ");
-            double raio = int.Parse(Console.ReadLine());
-            double areacirculo = pi * (Math.Pow(raio,2));
+            c.Raio = double.Parse(Console.ReadLine());
+            c.Pi = 3.14;
 
-            Console.WriteLine("A área do quadrado é: " + areaquadrado.ToString("F2"));
-            Console.WriteLine("A área do retângulo é: " + arearetangulo.ToString("F2"));
-            Console.WriteLine("A área do círculo é: " + areacirculo.ToString("F2"));
+            Console.Write("Informe a largura do Retângulo : ");
+            r.Largura = double.Parse(Console.ReadLine());
+            Console.Write("Informe a altura do Retângulo : ");
+            r.Altura = double.Parse(Console.ReadLine());
 
-
-
+            Console.WriteLine("A área do quadrado é: " + q);
+            Console.WriteLine("A área do círculo é: " + c);
+            Console.WriteLine("A área do retângulo é: " + r);
         }
     }
 }
